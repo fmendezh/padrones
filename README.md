@@ -3,7 +3,7 @@
 This project contains a simple example of how to import the Costa Rica electoral roll into Elastiscsearch.
 
 
-#Build and run
+# Build and run
 
 To build this project use:
   `mvn clean package install -U`
@@ -14,7 +14,8 @@ To run this project use:
   
   Replace _input_, _esHosts_ and _esIndex_ by your target Elasticsearch elements.
   
-#Frameworks used
+# Frameworks used
 
+ - https://beam.apache.org/
 
 
