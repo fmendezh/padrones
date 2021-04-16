@@ -1,0 +1,15 @@
+{
+  "properties": {
+
+    "all": {"type": "text", "index" :  true, "store" :  false},
+
+    "cedula": {"type": "keyword", "copy_to": "all"},
+    "codelec": {"type": "keyword", "copy_to": "all"},
+    "fecha_caducacion": {"type": "date","format": "YYYYMMMdd"},
+    "junta": {"type": "keyword", "copy_to": "all"},
+    "nombre": {"type": "text", "copy_to": "all"},
+    "apellido1": {"type": "text", "copy_to": "all"},
+    "apellido2": {"type": "text", "copy_to": "all"},
+    "nombre_completo":  {"type": "text", "analyzer": "autocomplete", "search_analyzer": "autocomplete_search"}
+  }
+}

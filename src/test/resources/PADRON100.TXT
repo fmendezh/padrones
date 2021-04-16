@@ -1,0 +1,100 @@
+100339724,109007, ,20231119,00000,JOSE                          ,DELGADO                   ,CORRALES                  
+100842598,108001, ,20261024,00000,CARMEN                        ,CORRALES                  ,MORALES                   
+100842638,301027, ,20220531,00000,RAFAEL                        ,AGUERO                    ,MORA                      
+100964116,104022, ,20280207,00000,MANUEL                        ,DELGADO                   ,GUZMAN                    
+100986470,205012, ,20220630,00000,MARIA                         ,SALAS                     ,CHAVARRIA                 
+100996791,108011, ,20300204,00000,ISABEL                        ,VEGA                      ,QUIROS                    
+101007891,114001, ,20301110,00000,DORA                          ,UMAÑA                     ,DURAN                     
+101019387,101026, ,20230416,00000,CLAUDIA MANUELA               ,ESPINOZA                  ,FONSECA                   
+101020267,101005, ,20300204,00000,MARINA                        ,HERRERA                   ,OREAMUNO                  
+101031136,107019, ,20300204,00000,MANUEL                        ,JIMENEZ                   ,MEZA                      
+101031563,110004, ,20260413,00000,MARINA                        ,QUIROS                    ,MORA                      
+101042358,103025, ,20220531,00000,DELFINA                       ,SEGURA                    ,JIMENEZ                   
+101053316,104015, ,20280207,00000,LUCILA                        ,PORRAS                    ,AGUERO                    
+101064216,301022, ,20220508,00000,BAUDILIO                      ,MORALES                   ,CORRALES                  
+101075138,119119, ,20300204,00000,OFELIA                        ,CASTILLO                  ,ROJAS                     
+101085966,112009, ,20260810,00000,LUISA                         ,ABARCA                    ,CAMPOS                    
+101086526,101012, ,20280207,00000,DINORA                        ,OBANDO                    ,GARCIA                    
+101096784,104011, ,20220926,00000,ARCELIA                       ,CHAVARRIA                 ,MARIN                     
+101096896,104026, ,20240820,00000,ROSALIA                       ,FERNANDEZ                 ,CHACON                    
+101097283,409003, ,20281024,00000,ZENEIDA                       ,MORA                      ,MORA                      
+101119051,101002, ,20290108,00000,MARGARITA                     ,VARGAS                    ,VARGAS                    
+101119140,114003, ,20300204,00000,DORA                          ,DURAN                     ,CHINCHILLA                
+101119313,102007, ,20300625,00000,GLADYS                        ,STAHL                     ,NAVARRO                   
+101120354,115001, ,20280207,00000,THAIS                         ,PERALTA                   ,CARRANZA                  
+101120440,112028, ,20270227,00000,ERLINDO                       ,FERNANDEZ                 ,FALLAS                    
+101130651,201066, ,20230121,00000,MARIA LIDIA                   ,HERRERA                   ,ANGULO                    
+101141576,101009, ,20261003,00000,CABIRIA                       ,MORGAN                    ,DURAN                     
+101141655,103033, ,20300204,00000,TRINIDAD                      ,VINDAS                    ,PEREZ                     
+101142031,112007, ,20300630,00000,INOCENCIA                     ,MEZA                      ,VEGA                      
+101152957,305014, ,20280207,00000,VICTOR                        ,RIVERA                    ,CALVO                     
+101153046,101013, ,20300204,00000,MARTA                         ,RECIO                     ,RECIO                     
+101153115,702004, ,20260202,00000,RECAREDO                      ,MURILLO                   ,GARITA                    
+101163542,101033, ,20220228,00000,OLGA ROMILIA                  ,VARGAS                    ,BLANCO                    
+101163671,101002, ,20270306,00000,MARIA CRISTINA                ,FALLAS                    ,MORA                      
+101164392,119001, ,20300306,00000,JOSE FRANCISCO                ,DUARTE                    ,QUESADA                   
+101175072,119024, ,20220627,00000,BLANCA                        ,MORA                      ,MORA                      
+101175238,208001, ,20300204,00000,VIDAL                         ,AZOFEIFA                  ,HERNANDEZ                 
+101196490,609025, ,20280314,00000,ANGELICA                      ,SANCHEZ                   ,AZOFEIFA                  
+101200081,401010, ,20280716,00000,GUILLERMINA                   ,MORALES                   ,QUIROS                    
+101200260,702004, ,20320202,00000,JOSE LUIS                     ,VARGAS                    ,CASCANTE                  
+101200868,103006, ,20260714,00000,TARCILA                       ,MORA                      ,CASCANTE                  
+101210166,101038, ,20230215,00000,MARIA DEIDAMIA                ,ACUÑA                     ,BONILLA                   
+101210556,114001, ,20240421,00000,CARMEN                        ,BARAHONA                  ,CARVAJAL                  
+101210722,101009, ,20230129,00000,CARLOTA                       ,FERNANDEZ                 ,GONZALEZ                  
+101210878,118006, ,20220531,00000,JUANA                         ,MORA                      ,TORRES                    
+101220285,103001, ,20300204,00000,BETTINA                       ,MONGE                     ,MORALES                   
+101220300,107014, ,20220423,00000,GABRIEL                       ,MARIN                     ,PEREZ                     
+101220466,103001, ,20231129,00000,NEFTALI                       ,FALLAS                    ,PORRAS                    
+101220606,111002, ,20280207,00000,RAFAEL ANGEL                  ,LOPEZ                     ,MEOÑO                     
+101230108,104004, ,20220315,00000,RECAREDO                      ,VINDAS                    ,RUBI                      
+101240037,823001, ,20300204,00000,ANA MARIA                     ,PEREZ                     ,PEREZ                     
+101240048,301019, ,20300204,00000,OSCAR                         ,ECHANDI                   ,MURILLO                   
+101240481,101033, ,20280207,00000,ALEJANDRO                     ,ARAYA                     ,BORGE                     
+101240732,601047, ,20301127,00000,MARIA JOSEFA                  ,CARVAJAL                  ,AGUERO                    
+101240972,101008, ,20220228,00000,LUZMIRA                       ,CHINCHILLA                ,CORDOBA                   
+101240973,109006, ,20300204,00000,VIRGINIA                      ,ACUÑA                     ,SOLERA                    
+101250509,303008, ,20300204,00000,EMELIDA                       ,GUTIERREZ                 ,CHAVARRIA                 
+101250782,201042, ,20300204,00000,CONSUELO                      ,JIMENEZ                   ,GUERRERO                  
+101260226,608023, ,20320202,00000,RAFAEL                        ,AGUILAR                   ,MORA                      
+101260403,109006, ,20240404,00000,GLADYS                        ,JIMENEZ                   ,MORA                      
+101260454,502021, ,20220331,00000,MARIA DE LOS ANGELES          ,ESQUIVEL                  ,ESQUIVEL                  
+101260768,201021, ,20260921,00000,GIL                           ,HIDALGO                   ,VINDAS                    
+101270252,110001, ,20300619,00000,CARMEN                        ,MENDEZ                    ,ARAYA                     
+101270279,119005, ,20270419,00000,EZEQUIAS                      ,FERNANDEZ                 ,BRIZUELA                  
+101270543,114001, ,20260202,00000,CARMEN                        ,MADRIGAL                  ,MESEN                     
+101270582,104045, ,20280806,00000,ANTONIO                       ,VALVERDE                  ,FLORES                    
+101270676,108005, ,20220430,00000,EMMA                          ,GARRO                     ,HERNANDEZ                 
+101270810,101002, ,20300204,00000,MARIA ANGELICA                ,MENA                      ,MENA                      
+101270875,101012, ,20300204,00000,MARIA DEL ROSARIO             ,BARRANTES                 ,PORRAS                    
+101280378,205008, ,20300204,00000,ELSA                          ,GODINEZ                   ,CALDERON                  
+101280455,509002, ,20230606,00000,SALVADOR                      ,VILLALTA                  ,MORA                      
+101280667,108001, ,20230118,00000,MERCEDES                      ,MONTERO                   ,SALAZAR                   
+101280847,114001, ,20250128,00000,ROSARIO                       ,DURAN                     ,ESQUIVEL                  
+101280904,305068, ,20220331,00000,YOLANDA                       ,ZUÑIGA                    ,GOMEZ                     
+101280947,103008, ,20261019,00000,GERMAN                        ,CARVAJAL                  ,BERMUDEZ                  
+101290149,101010, ,20300204,00000,JOSE VICENTE                  ,ACUÑA                     ,ACUÑA                     
+101290310,103005, ,20231029,00000,MARIA ANGELA                  ,FALLAS                    ,FALLAS                    
+101290354,104014, ,20270331,00000,BENITIVO                      ,ARIAS                     ,CAMPOS                    
+101300341,109007, ,20220228,00000,ERMIDA                        ,SOLIS                     ,FALLAS                    
+101300358,107004, ,20221024,00000,ARNERIA                       ,MATA                      ,MATA                      
+101300361,109001, ,20280419,00000,EMILCE                        ,BERMUDEZ                  ,CORDERO                   
+101300362,605007, ,20240129,00000,EVANGELINA DEL SOCORRO        ,ALFARO                    ,BERMUDEZ                  
+101300508,116001, ,20280207,00000,JOSE                          ,CASCANTE                  ,CASCANTE                  
+101300742,115004, ,20280705,00000,JORGE                         ,HERRERA                   ,MORA                      
+101300929,101011, ,20300204,00000,YOLANDA                       ,FERNANDEZ                 ,VARGAS                    
+101301000,102006, ,20220630,00000,JOSE MARIA                    ,VALVERDE                  ,MESEN                     
+101310012,706006, ,20270302,00000,ROGELIO JOAQUIN               ,NAVARRO                   ,TREJOS                    
+101310303,115003, ,20240813,00000,HERNAN                        ,MURILLO                   ,PORRAS                    
+101310431,102002, ,20240609,00000,POMPILIO                      ,DIAZ                      ,CHINCHILLA                
+101310490,107014, ,20240131,00000,JUANA DE JESUS                ,SANCHEZ                   ,SANCHEZ                   
+101310522,108001, ,20220228,00000,MARTA                         ,ARIAS                     ,AGUILAR                   
+101310594,108001, ,20230114,00000,TITO JUAN                     ,CHAVERRI                  ,ROIG                      
+101310776,101008, ,20261108,00000,ALICIA                        ,AGUERO                    ,VALVERDE                  
+101310983,107001, ,20280207,00000,CARMEN                        ,PARRA                     ,PARRA                     
+101310991,201033, ,20230723,00000,MARIA                         ,SANDI                     ,CHAVARRIA                 
+101320047,201048, ,20260202,00000,DAISY                         ,DURAN                     ,CHINCHILLA                
+101320143,502017, ,20240324,00000,MARIA                         ,GARCIA                    ,SANCHEZ                   
+101320254,113002, ,20221210,00000,DAISY                         ,SEGURA                    ,RODRIGUEZ                 
+101320433,113007, ,20300309,00000,FLORA                         ,CORELLA                   ,CORELLA                   
+101320437,303006, ,20221012,00000,MARIA IGNACIA                 ,MORA                      ,BORBON                    
