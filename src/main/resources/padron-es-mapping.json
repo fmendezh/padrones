@@ -4,12 +4,21 @@
     "all": {"type": "text", "index" :  true, "store" :  false},
 
     "cedula": {"type": "keyword", "copy_to": "all"},
-    "codelec": {"type": "keyword", "copy_to": "all"},
-    "fecha_caducacion": {"type": "date","format": "YYYYMMMdd"},
+    "distritoElectoral": {
+      "type": "object",
+      "properties": {
+        "codigo": {"type": "keyword", "copy_to": "all"},
+        "provincia": {"type": "keyword", "copy_to": "all"},
+        "canton": {"type": "keyword", "copy_to": "all"},
+        "distrito": {"type": "keyword", "copy_to": "all"}
+      }
+    },
+    "fechaCaducidad": {"type": "date"},
     "junta": {"type": "keyword", "copy_to": "all"},
     "nombre": {"type": "text", "copy_to": "all"},
-    "apellido1": {"type": "text", "copy_to": "all"},
-    "apellido2": {"type": "text", "copy_to": "all"},
-    "nombre_completo":  {"type": "text", "analyzer": "autocomplete", "search_analyzer": "autocomplete_search"}
+    "primerApellido": {"type": "text", "copy_to": "all"},
+    "segundoApellido": {"type": "text", "copy_to": "all"},
+    "nombreCompleto":  {"type": "text", "analyzer": "autocomplete", "search_analyzer": "autocomplete_search"},
+    "partidoRegistro": {"type": "keyword"}
   }
 }
