@@ -19,7 +19,7 @@ public class DistritosElectoralesDictionary implements Serializable {
               .codigo(fields[0])
               .provincia(fields[1])
               .canton(fields[2])
-              .distrito(fields[3])
+              .distrito(fields[3].trim())
               .build();
   }
 
